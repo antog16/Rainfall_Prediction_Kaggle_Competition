@@ -2,6 +2,8 @@
 
 This project focuses on building a machine learning model to predict the occurrence of rainfall for each day of the year. The prediction task is framed as a binary classification problem, where the model determines the probability of rainfall on a given day based on meteorological features.
 
+![rainfall proy](https://github.com/user-attachments/assets/0be342c8-4917-4b76-a7eb-10664265cb95)
+
 ## Project Background
 
 Developed as part of the Kaggle Playground Series Season 5, Episode 3 competition
